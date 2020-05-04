@@ -19,7 +19,7 @@ import os
 
 # -- Aplus configuration --------------------------------------------------
 course_open_date = '2016-06-01'
-course_close_date = '2020-06-06'
+course_close_date = ''
 questionnaire_default_submissions = 5
 program_default_submissions = 10
 default_max_group_size = 1
@@ -30,7 +30,10 @@ static_host = os.environ.get('STATIC_CONTENT_HOST')
 # The internal IP address of the ACOS container should be used in local testing
 # and in production, the URL of the ACOS production server.
 #acos_submit_base_url = 'https://acos.cs.aalto.fi'
-acos_submit_base_url = 'http://172.21.0.4:3000'
+# acos_submit_base_url = 'http://172.21.0.4:3000'
+# comment out the existing line that sets acos_submit_base_url and add the following:
+# local testing in containers
+acos_submit_base_url = 'http://acos:3000'
 
 # The JavaScript code used by the enrollment questionnaire is hosted in the course repo,
 # so we need to know the course key in order to craft the URL of the JS.
