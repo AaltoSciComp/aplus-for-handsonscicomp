@@ -1,6 +1,7 @@
 # Course template for A-plus learning environment for Hands-on scientific computing course
 
 After cloning this project you should do the following:
+- Install Docker if you don't have it already
 - Move to the course folder and execute `git submodule init && git submodule update`
 - Compile course material with `./docker-compile.sh`
 - Start A+ with `./docker-up.sh`
