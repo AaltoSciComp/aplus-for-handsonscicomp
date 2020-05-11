@@ -11,4 +11,4 @@ After cloning this project you should do the following:
 
 # Additional links
 
-- A+ quickstart guide: https://apluslms.github.io/guides/quick/ for template course which works as a manual guide to A+ system.x
+- A+ quickstart guide: https://apluslms.github.io/guides/quick/ for template course which works as a manual guide to A+ system.
