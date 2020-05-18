@@ -2,9 +2,16 @@ B. Related science skills exercises
 ===================================
 
 
-Drag and drop data management
+Data management
 -----------------------------
 
-.. acos-submit:: 9 10
+.. acos-submit:: 9 8
   :title: Drag and drop 
   :url: /aplus/draganddrop/hoscic-draganddrop/datastructure
+
+
+Jupyter (& LaTex)
+-----------------------------
+
+.. submit:: jupyter 5
+  :config: exercises/jupyter/config.yaml
