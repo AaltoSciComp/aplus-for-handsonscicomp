@@ -1,14 +1,14 @@
-Basics exercises
+A. Basics exercises
 ================
 
 Scientific computing practises
 ------------------------------
 
-.. questionnaire:: practises_questionnaire 10
+.. questionnaire:: practises_questionnaire 5
   :title: Scientific computing practises questionnaire
   :submissions: 3
 
-  .. pick-any:: 10
+  .. pick-any:: 5
 
     Which of the following you should do to follow the good enough computing 
     practises?

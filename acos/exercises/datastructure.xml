@@ -1,0 +1,90 @@
+<html>
+<body>
+  <h2>Fill in an ideal data structure</h2>
+  <div class="row" style="display: flex;">
+    <div class="column">
+      <img src="/static/hoscic-draganddrop/project.png"></img>
+    </div>
+    <div class="column">
+      <img src="/static/hoscic-draganddrop/line.png" style="margin-top: 28px; margin-right: 20px;"></img>
+    </div>
+    <div class="column">
+      <p>{source:}</p>
+    </div>
+      <div class="column">
+      <img src="/static/hoscic-draganddrop/line.png" style="margin-top: 28px; margin-right: 20px; margin-left: 20px;"></img>
+    </div>
+    <div class="column">
+      <p>{files:}</p>
+    </div>
+  </div>
+  <div class="row" style="display: flex;">
+    <div class="column">
+      <img src="/static/hoscic-draganddrop/linecopy.png" style="margin-left: 115px; margin-top: -35px;"></img>
+    </div>
+    <div class="column">
+      <img src="/static/hoscic-draganddrop/line.png" style="margin-right: 20px; margin-top: 11px;"></img>
+    </div>
+    <div class="column">
+      <p>{experiments:}</p>
+    </div>
+    <div class="column">
+      <img src="/static/hoscic-draganddrop/line.png" style="margin-top: 11px; margin-left: 11px;"></img>
+    </div>
+    <div class="column">
+      <img src="/static/hoscic-draganddrop/yyyymmdd.png"></img>
+    </div>
+    <div class="column">
+      <img src="/static/hoscic-draganddrop/line.png" style="margin-right: 20px; margin-top: 11px;"></img>
+    </div>
+     <div class="column">
+      <p>{results:}</p>
+    </div>
+  </div>
+  <div class="row" style="display: flex;">
+    <div class="column">
+      <img src="/static/hoscic-draganddrop/linecopycopy.png" style="margin-left: 115px; margin-top: -80px;"></img>
+    </div>
+    <div class="column">
+      <img src="/static/hoscic-draganddrop/line.png" style="margin-right: 20px; margin-top: 11px;"></img>
+      </div>
+    <div class="column">
+      <p>{data:}</p>
+    </div>
+    <div class="column">
+      <img src="/static/hoscic-draganddrop/line.png" style="margin-right: 20px; margin-top: 11px; margin-left: 20px;"></img>
+    </div>
+    <div class="column">
+      <p>{readme:}</p>
+    </div>
+  </div>
+   <div class="row" style="display: flex;">
+      <div class="column">
+        <img src="/static/hoscic-draganddrop/line2.png" style="margin-left: 280px; margin-top: -35px;"></img>
+      </div>
+      <div class="column">
+        <img src="/static/hoscic-draganddrop/line.png" style="margin-top: 19px;"></img>
+      </div>
+      <div class="column">
+        <img src="/static/hoscic-draganddrop/yyyymmdd.png"></img>
+      </div>
+      <div class="column">
+        <img src="/static/hoscic-draganddrop/line.png" style="margin-top: 19px; margin-right: 20px;"></img>
+      </div>
+      <div class="column">
+        <p>{readme:}</p>
+      </div>
+    </div>
+    <div class="row" style="display: flex;">
+      <div class="column">
+        <img src="/static/hoscic-draganddrop/line2.png" style="margin-left: 453px; margin-top: -45px;"></img>
+      </div>
+      <div class="column">
+        <img src="/static/hoscic-draganddrop/line.png" style="margin-top: 11px; margin-right: 15px;"></img>
+      </div>
+      <div class="column">
+        <p>{datafiles:}</p>
+      </div>
+    </div>
+</body>
+</html>
