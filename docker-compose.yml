@@ -30,5 +30,6 @@ services:
     depends_on:
       - plus
       - grader
-    #volumes:
+    volumes:
+      - /Volumes/ADATA/Aalto/aplus/acos:/usr/src/acos-server/node_modules/acos-hoscic-draganddrop
     #  - ./_data/acos/:/var/log/acos

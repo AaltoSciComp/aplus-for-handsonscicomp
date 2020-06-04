@@ -1,6 +1,6 @@
 <html>
 <body>
-  <h2>Fill in the ideal data structure.</h2>
+  <h2>Fill in the ideal data structure</h2>
   <p>Drag upper items to droppable areas below.</p>
   <div class="row" style="display: flex;">
     <div class="column">

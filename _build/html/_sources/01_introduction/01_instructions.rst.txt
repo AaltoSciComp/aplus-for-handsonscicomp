@@ -4,7 +4,7 @@ Instructions for hands-on scientific computing exercises
 Exercises
 ---------
 
-Exercises types here
+Exercises instructions here (how to do them, different types, what should student know)
 
 Course grading
 --------------

@@ -1,2 +1,2 @@
-Scientific coding exercises
-===========================
+E. Scientific coding exercises
+==============================
