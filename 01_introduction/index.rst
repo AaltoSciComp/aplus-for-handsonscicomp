@@ -3,5 +3,5 @@ Introduction
 
 .. toctree::
     
-    01_instructions.rst
-    02_starting_survey.rst
+    01_instructions
+    02_starting_survey

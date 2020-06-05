@@ -2,4 +2,5 @@ A. Basics
 ----------
 
 .. toctree::
-    01_module_A_exercises.rst
+
+    01_module_A_exercises

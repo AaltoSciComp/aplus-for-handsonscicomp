@@ -2,4 +2,5 @@ F. Advanced high performance computing
 --------------------------------------
 
 .. toctree::
-    01_module_F_exercises.rst
+
+    01_module_F_exercises

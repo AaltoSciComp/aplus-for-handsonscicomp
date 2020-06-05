@@ -4,7 +4,7 @@ Instructions for hands-on scientific computing exercises
 Exercises
 ---------
 
-Exercises instructions here (how to do them, different types, what should student know)
+Exercises consist of multiple choice, drag and drop and text questionnaire types.
 
 Course grading
 --------------
