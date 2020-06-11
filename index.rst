@@ -1,9 +1,8 @@
-:course-description: 
-    <h3>Exercise page for Hands-on scientific computing course</h3>
-    <p>This course is open for both Aalto and external users. Enrollment is open all year round.</p>
+:view-content-to: public
+:enrollment-audience: all
+:index-mode: toc
 
 .. toctree::
-  :maxdepth: 2
 
   01_introduction/index
   02_basics/index

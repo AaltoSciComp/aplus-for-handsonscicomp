@@ -6,9 +6,9 @@ Scientific computing practises
 
 .. questionnaire:: practises_questionnaire 5
   :title: Scientific computing practises questionnaire
-  :submissions: 3
+  :submissions: 2
 
-  .. pick-any:: 5
+  .. pick-any:: 2
 
     Which of the following you should do to follow the good enough computing 
     practises?
@@ -31,9 +31,9 @@ Scientific computing practises
 Computer set up
 ---------------
 
-.. questionnaire:: set_up_questionnaire 15
+.. questionnaire:: set_up_questionnaire 2
   :title: Computer set up questionnaire
-  :submissions: 3
+  :submissions: 2
 
   .. freetext:: 5
     :length: 10
